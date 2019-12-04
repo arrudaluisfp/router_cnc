@@ -236,9 +236,9 @@ dos sensores de referência (Home) e de proteção aberta (Cover Closed).
 * _Diagrama esquemático e montagem prática_
 
 <div align="center">
-  <img src="Imagens/spindle.PNG" alt="spindle" width="50%" height="20%"/></center>
+  <img src="Imagens/schematic.PNG" alt="spindle" width="50%" height="20%"/></center>
 </div> 
 
 <div align="center">
-  <img src="Imagens/spindle.PNG" alt="spindle" width="50%" height="20%"/></center>
+  <img src="Imagens/PCB.PNG" alt="spindle" width="50%" height="20%"/></center>
 </div>
