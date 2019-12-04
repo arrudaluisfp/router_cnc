@@ -240,9 +240,9 @@ dos sensores de referência (Home) e de proteção aberta (Cover Closed).
 </div> 
 
 <div align="center">
-  <img src="Imagens/PCB.PNG" alt="PCB" width="50%" height="20%"/></center>
+  <img src="Imagens/3d.PNG" alt="3d" width="50%" height="20%"/></center>
 </div>
 
 <div align="center">
-  <img src="Imagens/3d.PNG" alt="3d" width="50%" height="20%"/></center>
+  <img src="Imagens/PCB.PNG" alt="PCB" width="50%" height="20%"/></center>
 </div>
