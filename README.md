@@ -246,3 +246,11 @@ dos sensores de referência (Home) e de proteção aberta (Cover Closed).
 <div align="center">
   <img src="Imagens/PCB.PNG" alt="PCB" width="50%" height="20%"/></center>
 </div>
+
+<div align="center">
+  <img src="Imagens/PCB2.PNG" alt="PCB" width="50%" height="20%"/></center>
+</div>
+
+<div align="center">
+  <img src="Imagens/PCB3.PNG" alt="PCB" width="50%" height="20%"/></center>
+</div>
