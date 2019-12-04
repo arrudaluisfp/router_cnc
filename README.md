@@ -233,7 +233,7 @@ dos sensores de referência (Home) e de proteção aberta (Cover Closed).
   ● Sloeber, IDE do Eclipse para o Arduino
   ● Proteus 8 Professional
   
-* _Diagrama esquemático e montagem prática_
+* _Diagrama esquemático, PCB Layout e visualização 3D_
 
 <div align="center">
   <img src="Imagens/schematic.PNG" alt="spindle" width="50%" height="20%"/></center>
@@ -241,4 +241,8 @@ dos sensores de referência (Home) e de proteção aberta (Cover Closed).
 
 <div align="center">
   <img src="Imagens/PCB.PNG" alt="spindle" width="50%" height="20%"/></center>
+</div>
+
+<div align="center">
+  <img src="Imagens/3d.PNG" alt="spindle" width="50%" height="20%"/></center>
 </div>
